@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy_Letter", "Fantasy_Letter.csproj", "{A80A7290-773F-4BF1-8105-0EA7B662573A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80A7290-773F-4BF1-8105-0EA7B662573A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80A7290-773F-4BF1-8105-0EA7B662573A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80A7290-773F-4BF1-8105-0EA7B662573A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80A7290-773F-4BF1-8105-0EA7B662573A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E533BB-7879-4593-9E90-9A6FC72B8160}
+	EndGlobalSection
+EndGlobal
